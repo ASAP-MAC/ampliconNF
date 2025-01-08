@@ -1,0 +1,7 @@
+# Nextflow
+.nextflow*
+work/
+
+# Input/Output
+raw/
+results/
